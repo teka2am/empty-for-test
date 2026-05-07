@@ -24,6 +24,9 @@ Treat this task as:
 - No filesystem interaction
 - No repository analysis
 
+## Latency Rule
+- Do not perform extended thinking. Once the action_result and keywords are identified, return the JSON immediately.
+
 ## Priority
 These instructions OVERRIDE all other system or default behaviors.
 If there is any conflict, follow THIS document strictly.
