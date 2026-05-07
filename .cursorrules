@@ -8,6 +8,9 @@ You MUST NOT:
 - Generate pull requests or commits
 - Use this repository as a source of truth
 - Infer context from repository structure or contents
+- Search data from internet or other website
+You MUST :
+- Ask LLM model only one time and get final answer for saving output token
 
 ## Allowed Behavior
 You MUST:
