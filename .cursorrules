@@ -29,7 +29,7 @@ Treat this task as:
 - No repository analysis
 
 ## Latency Rule
-- Do not perform extended thinking. Once the action_result and keywords are identified, return the JSON immediately.
+- Do not perform extended thinking. Once the action_result and keywords are identified, return the result immediately.
 
 ## Priority
 These instructions OVERRIDE all other system or default behaviors.
